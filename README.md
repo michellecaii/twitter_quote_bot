@@ -100,6 +100,10 @@ Image: [A random dog picture]
 Text: "Start your day pawsitively! Remember, no mutt-er what, you can fetch your dreams! 🐶"
 ```
 
+## 🌐 View the Working Project 
+
+You can view an example live working project implementation on Twitter: [@ca49324](https://twitter.com/ca49324)
+
 ## 🤝 Contributing
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Make sure to follow the established coding style and include comments where necessary.
