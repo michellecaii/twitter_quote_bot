@@ -71,7 +71,7 @@ To run this project, ensure you have the following:
    To post a tweet with a random dog image and an inspirational quote, run:
 
    ```bash
-   python main_script.py
+   python tweeter_bot.py
    ```
 
    Ensure that your API keys are correctly set up before running the script.
@@ -86,7 +86,7 @@ To run this project, ensure you have the following:
 dog-quote-tweeter-bot/
 │
 ├── quote_generator.py   # Script for generating inspirational quotes using Gemini API
-├── main_script.py       # Main script for fetching images and posting tweets
+├── tweeter_bot.py       # Main script for fetching images and posting tweets
 ├── README.md            # Project documentation
 └── requirements.txt     # List of Python dependencies
 ```
